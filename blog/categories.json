@@ -1,0 +1,20 @@
+[
+  {
+    "id": "allgemein",
+    "name": "Allgemein",
+    "description": "",
+    "wordpressId": 1
+  },
+  {
+    "id": "neuigkeiten",
+    "name": "Neuigkeiten",
+    "description": "",
+    "wordpressId": 5
+  },
+  {
+    "id": "notizen",
+    "name": "Notizen",
+    "description": "",
+    "wordpressId": 3
+  }
+]

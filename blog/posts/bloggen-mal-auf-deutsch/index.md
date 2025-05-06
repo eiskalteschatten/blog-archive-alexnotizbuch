@@ -1,0 +1,9 @@
+<figure><img loading="lazy" decoding="async" src="blogging-in-German.jpg" alt="Von KI generiertes Bild einer Frau, die am Computer schreibt"><figcaption>Von einer KI generiertes Bild einer Frau, die am Computer schreibt</figcaption></figure>
+
+Seit Jahrzehnten betreibe ich [einige Blogs](https://blog.alexseifert.de/andere-blogs/), die ich auf Englisch schreibe: [Alex’s Notebook](https://blog.alexseifert.com/) (das englischsprachige Pendant zu diesem Blog), [The Beskirted Man](https://www.the-beskirted-man.com/), [Haunting Alex](https://haunting.alexseifert.com/) und [History Rhymes](https://www.historyrhymes.info/). Allerdings schreibe ich selten auf Deutsch, weil das Publikum einfach kleiner ist. Vor allem, wenn man viel über Technik und Programmierung schreibt, ergibt es mehr Sinn, alles auf Englisch zu verfassen.
+
+Trotzdem wollte ich mal wieder auf Deutsch bloggen. Es gab auch einige Leute, vor allem Leser:innen von [The Beskirted Man](https://www.the-beskirted-man.com/), die mich gefragt haben, ob ich vielleicht einige meiner Beiträge auch auf Deutsch übersetzen könnte. Da schreibe ich über meine Erfahrungen in Deutschland als Mann, der gerne Röcke und Absatzschuhe trägt, aber nicht weiblich aussehen möchte. Die übersetzten Beiträge werde ich also hier auf diesem Blog posten.
+
+Natürlich wird es hier auch mehr als nur übersetzte Texte geben. Ich werde mal das eine oder andere original auf Deutsch schreiben und hier posten. Ich merke allerdings nur, dass mir die Übung fehlt. Ich bin es so gewohnt auf Englisch zu schreiben, dass es mir teilweise schwerfällt, die richtige Stimme zu finden. Dazu kommen immer wieder mal englische Sprichwörter und Schreibweisen in den Sinn, die logischerweise nicht immer auf Deutsch funktionieren.
+
+Es ist gut 20 Jahre her, dass ich zuletzt einen deutschsprachigen Blog hatte. Es wird also wieder mal Zeit.

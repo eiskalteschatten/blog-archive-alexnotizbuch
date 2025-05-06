@@ -1,0 +1,21 @@
+{
+  "id": "bloggen-mal-auf-deutsch",
+  "title": "Bloggen, mal auf Deutsch",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "titleImage": "blogging-in-German.jpg",
+  "excerpt": "Seit Jahrzehnten betreibe ich einige Blogs, die ich auf Englisch schreibe, aber es wird Zeit, dass ich mal etwas auf Deutsch schreibe.\n",
+  "categories": [
+    "allgemein",
+    "neuigkeiten",
+    "notizen"
+  ],
+  "tags": [
+    "Bloggen"
+  ],
+  "publishedDate": "2025-05-06T08:42:45",
+  "updatedAt": "2025-05-06T08:42:45",
+  "wordpressId": 59
+}
