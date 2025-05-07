@@ -16,5 +16,35 @@
     "name": "Notizen",
     "description": "",
     "wordpressId": 3
+  },
+  {
+    "id": "ausgewaehlte-beitraege",
+    "name": "Ausgwählte Beiträge",
+    "description": "",
+    "wordpressId": 2
+  },
+  {
+    "id": "entwicklung",
+    "name": "Entwicklung",
+    "description": "",
+    "wordpressId": 4
+  },
+  {
+    "id": "gender",
+    "name": "Gender",
+    "description": "",
+    "wordpressId": 14
+  },
+  {
+    "id": "roecke-und-heels",
+    "name": "Röcke und Heels",
+    "description": "",
+    "wordpressId": 15
+  },
+  {
+    "id": "software-und-tools",
+    "name": "Software und Tools",
+    "description": "",
+    "wordpressId": 26
   }
 ]
