@@ -1,0 +1,22 @@
+{
+  "id": "visual-studio-code-microsoft-verschaerft-vorgehen-bei-inoffiziellen-forks",
+  "title": "Visual Studio Code: Microsoft verschärft Vorgehen bei inoffiziellen Forks",
+  "status": "published",
+  "authors": [
+    "alex"
+  ],
+  "titleImage": "microsoft.jpeg",
+  "excerpt": "Gestern habe ich einen Beitrag von Dr. Windows gelesen, in dem es darum ging, dass ein paar von Microsofts Plugins für Visual Studio Code nicht mehr in unabhängigen Forks lauffähig sind.\n",
+  "categories": [
+    "notizen",
+    "entwicklung",
+    "software-und-tools"
+  ],
+  "tags": [
+    "Microsoft",
+    "Visual Studio Code"
+  ],
+  "publishedDate": "2025-05-07T09:36:14",
+  "updatedAt": "2025-05-07T09:36:14",
+  "wordpressId": 196
+}
