@@ -46,5 +46,11 @@
     "name": "Software und Tools",
     "description": "",
     "wordpressId": 26
+  },
+  {
+    "id": "betriebsysteme",
+    "name": "Betriebsysteme",
+    "description": "",
+    "wordpressId": 25
   }
 ]
