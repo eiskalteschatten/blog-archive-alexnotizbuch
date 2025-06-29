@@ -8,8 +8,8 @@ So etwas ist mir kürzlich bei einer der Apps passiert, die ich häufig auf mein
 
 GoodNotes ist nicht der erste Fall, den ich erlebt habe, und ich finde, dass dies ein ziemlich beunruhigender Trend in der Softwarebranche ist. Aus wirtschaftlicher Sicht kann ich nachvollziehen, warum ein Abonnementmodell für Softwareunternehmen weitaus vorteilhafter ist als das Einmalkaufmodell. Es ist jedoch mit Sicherheit nicht besser für die Kunden.
 
-**Warum Unternehmen auf Abonnementmodelle umsteigen**
------------------------------------------------------
+Warum Unternehmen auf Abonnementmodelle umsteigen
+-------------------------------------------------
 
 Immer mehr Softwareunternehmen wechseln zu einem Abonnementmodell, um einen konstanteren Einnahmestrom zu erzielen. Anstatt Einkommensspitzen zu verzeichnen, wenn sie neue Hauptversionen ihrer Software veröffentlichen, sorgen Abonnements für einen stetigen Cashflow.
 
@@ -17,8 +17,8 @@ Als Microsoft beispielsweise Office auf ein Abonnementmodell umstellte, wurde be
 
 Aus betriebswirtschaftlicher Sicht sind diese Aspekte offensichtlich vorteilhaft. Schließlich will doch jedes Unternehmen einen stetigen Geldfluss haben und gleichzeitig Marketing- und Veröffentlichungskosten senken. Doch diese Sichtweise ist völlig selbstbezogen und könnte sich als nachteilig erweisen.
 
-**Abonnementmüdigkeit**
------------------------
+Abonnementmüdigkeit
+-------------------
 
 Etwas, das diese Softwareunternehmen offenbar vergessen, ist, dass eine Vielzahl anderer Anbieter denselben Weg gehen. Das führt dazu, dass Nutzer unter „Abonnementmüdigkeit“ leiden, was potenziell Kunden abschrecken kann.
 
@@ -28,8 +28,8 @@ Wenn ich zum Beispiel 10€ oder sogar 5€ pro Monat für ein Softwareprodukt z
 
 Für Software, die ich regelmäßig nutze, wie etwa mein Apple One-Abonnement, bei dem ich iCloud Drive, Apple Music, Apple TV+ und die dazugehörige Software nahezu täglich verwende, habe ich kein Problem, zu zahlen; der Nutzen rechtfertigt die wiederkehrenden Kosten. Die meisten Anwendungen, wie GoodNotes oder Microsoft Office, verwende ich allerdings nur sporadisch. Oft teste ich ein kostenloses Probeabo, storniere es jedoch rechtzeitig, bevor Gebühren anfallen, weil ich die laufenden Kosten einfach nicht rechtfertigen kann. Programme, die ich nur gelegentlich nutze, sind genau solche, für die ich lieber eine einmalige Lizenzgebühr entrichten würde, anstatt ständig wiederkehrende Zahlungen leisten zu müssen.
 
-**Fazit**
----------
+Fazit
+-----
 
 Um fair gegenüber den Abonnenten zu sein, gibt es zweifellos auch einige Vorteile: Man hat stets die neueste Version und erhält häufig einen kontinuierlichen Strom neuer Funktionen. Sogar Kunden, etwa andere Unternehmen, können von Software-Abonnements profitieren. Wenn man beispielsweise ein Produkt wie Microsoft Office abonniert, können kontinuierlich kleine Software-Updates mit inkrementellen Änderungen veröffentlicht werden, anstatt für umfangreiche Hauptupdates neue Lizenzen erwerben zu müssen. Das senkt die Kosten, da die Schulung von Mitarbeitern für neue Hauptversionen entfällt und der Einführungsvorgang eines größeren Updates ebenfalls beträchtliche Aufwände mit sich bringt.
 

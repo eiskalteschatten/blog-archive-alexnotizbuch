@@ -93,8 +93,8 @@ Mit einem einzigen Befehl über die Angular CLI wird automatisch ein Express-Ser
 
 Angular bietet sogar die Möglichkeit, Inhalte vorab zu rendern, falls du eine komplett statische Website wünschst. Der einzige Nachteil dabei ist, dass – im Gegensatz zu Next.js, das dieselbe Funktionalität besitzt – es keine Möglichkeit gibt, die vorgerenderten Inhalte nachträglich zu aktualisieren, ohne die gesamte Anwendung neu zu bauen. Das ist für mich der einzige wesentliche Minuspunkt.
 
-**Gründe, weiterhin React zu verwenden**
-----------------------------------------
+Gründe, weiterhin React zu verwenden
+------------------------------------
 
 Nachdem ich nun die Gründe dargelegt habe, warum ich begonnen habe, Angular anstelle von React zu verwenden, denke ich, dass es an der Zeit ist, auch React ein wenig Anerkennung zu schenken – schließlich ist es immer noch ein großartiges Framework mit zahlreichen positiven Aspekten. Darauf werde ich hier nicht allzu sehr eingehen, denn das ist nicht wirklich das Ziel dieses Artikels; das verdient wahrscheinlich einen eigenen Beitrag.
 
@@ -102,8 +102,8 @@ Der erste Grund, der mich dazu bringt, React weiterhin zu nutzen, ist meine jahr
 
 Der zweite Grund ist, dass ich im Laufe meiner persönlichen Projekte einen recht umfangreichen Katalog generischer React-Komponenten aufgebaut habe, den ich in verschiedenen Projekten wiederverwenden kann – dazu zählen Buttons, Eingabefelder, Toasts, Dialoge, Popup-Menüs, Spinner und viele mehr. Sie sind so gestaltet, wie ich sie mag, und besitzen in der Regel zusätzliche Funktionalitäten. Meine Button-Komponente beispielsweise verfügt über einen eingebauten Spinner, sodass beim Absenden eines Formulars der Button deaktiviert wird und innerhalb seiner Grenzen ein Spinner angezeigt wird. Die Möglichkeit, diese Komponenten von Projekt zu Projekt zu übernehmen, spart mir enorm viel Zeit. Ein kompletter Neuanfang mit Angular würde bedeuten, dass ich diese Komponenten nicht mehr zur Verfügung hätte und sie von Grund auf neu entwickeln müsste – auch wenn das nicht schlimm ist, kostet es trotzdem viel Zeit und ist ein wesentlicher Grund, warum ich React für meine persönlichen Projekte weiterhin verwende.
 
-**Fazit**
----------
+Fazit
+-----
 
 Ich denke, das fasst meine Gründe zusammen, weshalb ich für meine Projekte von React zu Angular gewechselt habe. Es gibt viele Aspekte an Angular, die ich wirklich liebe und die es meines Erachtens zu einem weitaus überlegenen Framework im Vergleich zu React machen – das heißt aber nicht, dass alles an React schlecht ist. Laut Umfragen ist Angular eines der am wenigsten beliebten Frontend-Frameworks, und ich vermute, dass das etwas mit seiner Komplexität und seiner objektorientierten, „backend“-artigen Denkweise zu tun hat.
 

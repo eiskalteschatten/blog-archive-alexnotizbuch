@@ -30,8 +30,8 @@ Ich werde nicht auf jede einzelne Frage eingehen, denn ehrlich gesagt erinnere i
 
 <figure><img loading="lazy" decoding="async" src="heels-in-the-office-e1691944415307-915x1024.jpg" alt="Meine Absatzstiefel im Büro"><figcaption>Meine Absatzstiefel im Büro</figcaption></figure>
 
-**Einen neuen Job in Absatzschuhen beginnen**
----------------------------------------------
+Einen neuen Job in Absatzschuhen beginnen
+-----------------------------------------
 
 Seit dieser Erfahrung habe ich den Job gewechselt und das hatte absolut nichts mit meiner Wahl an Schuhen oder Kleidung zu tun. Als ich meinen neuen Job antrat, trug ich bei kühlerem Wetter in der Öffentlichkeit fast immer meine Absatzstiefel (von denen ich mehrere Paare besitze). Die Erfahrung hat dazu geführt, dass es für mich normal geworden ist, und ich denke gar nicht mehr darüber nach.
 
@@ -45,8 +45,8 @@ Natürlich beantwortete ich ihre Fragen ehrlich und erzählte ihr dabei auch von
 
 Seitdem haben wir mehrere Gespräche darüber geführt, und ich habe ihr sogar die Links zu meinem Blog [The Beskirted Man](https://www.the-beskirted-man.com) sowie zu meinem [Instagram-Account](https://www.instagram.com/thebeskirtedman/) geschickt. Sie leitete beide an ihren Ehemann weiter, den sie offenbar nun dazu zu bringen versucht, sich auch für femininer Kleidungsstile zu öffnen.
 
-**Fazit**
----------
+Fazit
+-----
 
 Obwohl dieser Beitrag ein wenig vom Thema Röcke abgewichen ist, sollte er vor allem zeigen, dass das Tragen unkonventioneller Schuhe oder Kleidung in öffentlichen und halböffentlichen Umgebungen in der Regel nicht so beängstigend ist, wie man es sich anfangs vorstellt.
 
@@ -56,8 +56,8 @@ Es ist immer noch ungewöhnlich, einen Mann in Absatzschuhen oder einem Rock zu 
 
 *Trägst du Absatzschuhe? Hast du sie auch schon mal in der Öffentlichkeit getragen? Wie sieht es mit anderer „femininer“ Kleidung wie Röcken aus? Welche Erfahrungen hast du gemacht? Musstest du deine Entscheidungen oft erklären? Lass es mich in den Kommentaren wissen!*
 
-**Bildergalerie**
------------------
+Bildergalerie
+-------------
 
 -   <figure><img loading="lazy" decoding="async" alt="Absatzstiefel am Münchner Flughafen" data-id="543" src="IMG_8249.jpeg"><figcaption>Absatzstiefel am Münchner Flughafen</figcaption></figure>
     
