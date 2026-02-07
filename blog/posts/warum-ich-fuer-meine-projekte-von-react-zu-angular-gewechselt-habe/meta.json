@@ -10,7 +10,9 @@
   "categories": [
     "ausgewaehlte-beitraege",
     "entwicklung",
-    "software-und-tools"
+    "software-und-tools",
+    "empfohlene-beitraege",
+    "technologie"
   ],
   "tags": [
     "Angular",
@@ -19,6 +21,6 @@
     "Webentwicklung"
   ],
   "publishedDate": "2025-05-06T13:34:12",
-  "updatedAt": "2025-06-28T15:05:09",
+  "updatedAt": "2026-02-06T09:46:03",
   "wordpressId": 108
 }
