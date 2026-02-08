@@ -39,14 +39,14 @@ Der erste Kommentar kam von der Besitzerin eines kleinen, alternativen Bekleidun
 
 Der zweite Kommentar fiel auf der Straße, als wir uns in einer großen Menschenmenge befanden. Ein älteres Paar ging vorbei und schaute mich an. Meine Frau meinte, sie habe die Frau leise zu ihrem Mann sagen gehört: „Was sich die jungen Leute heutzutage alles erlauben!“ Als sie mir das erzählte, musste ich lachen. In meinen Dreißigern wird man normalerweise nicht mehr zu dieser Gruppe gezählt.
 
-Das war es aber auch. Niemand starrte, niemand machte weitere Kommentare — absolut nichts veränderte sich. Der erste Kommentar gab mir das Gefühl, im Recht zu sein und glücklich zu werden, während mich der zweite Kommentar zum Lachen brachte. Ich kann nur wiederholen, wie fantastisch die Zeit war, und dass die Reaktionen, die ich erhielt, unterhaltsam und amüsant waren. Sie bereicherten das Erlebnis, anstatt es zu schmälern.
+Das war es aber auch. Niemand starrte, niemand machte weitere Kommentare – absolut nichts veränderte sich. Der erste Kommentar gab mir das Gefühl, im Recht zu sein und glücklich zu werden, während mich der zweite Kommentar zum Lachen brachte. Ich kann nur wiederholen, wie fantastisch die Zeit war, und dass die Reaktionen, die ich erhielt, unterhaltsam und amüsant waren. Sie bereicherten das Erlebnis, anstatt es zu schmälern.
 
 Fazit
 -----
 
 Sobald ich draußen war und merkte, dass nichts passieren würde, begann ich, es wirklich zu genießen. Das Erlebnis, draußen in einem Rock zu gehen, war äußerst befreiend, da es sich so anfühlte, als wäre ein Teil von mir, der so lange verschlossen war, endlich befreit worden. Von diesem Moment an war das Geheimnis gelüftet und ich wusste, dass ich es wieder tun würde.
 
-Seitdem bin ich mehrmals in der Öffentlichkeit in einem Rock aufgetreten –- mehr als man zählen könnte — und ich habe das Erlebnis stets genossen. Manchmal muss ich immer noch die anfängliche Hürde überwinden, das „Sicherheitsgefühl“ des Hauses zu verlassen, aber mit der Übung wird es einfacher.
+Seitdem bin ich mehrmals in der Öffentlichkeit in einem Rock aufgetreten –- mehr als man zählen könnte – und ich habe das Erlebnis stets genossen. Manchmal muss ich immer noch die anfängliche Hürde überwinden, das „Sicherheitsgefühl“ des Hauses zu verlassen, aber mit der Übung wird es einfacher.
 
 Ich möchte jeden Mann ermutigen, der daran interessiert ist, in der Öffentlichkeit einen Rock zu tragen, es ebenfalls zu versuchen. Falls es Unterstützung von vertrauten Personen benötigt, suche dir diese Leute, damit sie dich ermutigen und/oder dich begleiten. Das Ausgehen in einer Gruppe, in der man sich sicher fühlt, kann deinem Selbstvertrauen einen enormen Schub verleihen und den Schritt ins öffentliche Leben erleichtern.
 
