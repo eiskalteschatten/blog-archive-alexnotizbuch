@@ -64,5 +64,11 @@
     "name": "Technologie",
     "description": "",
     "wordpressId": 53
+  },
+  {
+    "id": "geschichte",
+    "name": "Geschichte",
+    "description": "",
+    "wordpressId": 54
   }
 ]
